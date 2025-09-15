@@ -26,6 +26,3 @@
 #define BETTER_DRAGSCROLL_INVERT_V 1
 #define BETTER_DRAGSCROLL_DIVISOR_H 18
 #define BETTER_DRAGSCROLL_DIVISOR_V 18
-
-// Reduce tap dance delay for dragscroll
-#define TAPPING_TERM 100
